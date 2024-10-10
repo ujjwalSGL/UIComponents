@@ -176,6 +176,11 @@ const App = () => {
             <Progress value={progressValue} max={100} color="yellow" />
             </div>
         </div>
+       <div>
+         <Accordion title={"Accordion"}>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil molestias eveniet aperiam eius minima quaerat repudiandae vitae aut a voluptas amet, soluta tempora vero dolores, consectetur, quisquam maxime. Quibusdam, cupiditate?
+         </Accordion>
+        </div>
 
     </div>
   );
